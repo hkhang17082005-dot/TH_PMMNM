@@ -19,7 +19,7 @@
 </head>
 <body>
 <nav class="navbar navbar-expand-lg px-4">
-    <a class="navbar-brand" href="http://localhost:8080/webbanhang/Product"><i class="bi bi-shop me-2"></i>ShopAdmin</a>
+    <a class="navbar-brand" href="http://localhost:8080/webbanhang/Product"><i class="bi bi-shop me-2"></i>ShopBanHang</a>
     <div class="collapse navbar-collapse">
         <ul class="navbar-nav ms-auto gap-2 align-items-center">
             <li class="nav-item"><a class="nav-link" href="http://localhost:8080/webbanhang/Product"><i class="bi bi-box-seam me-1"></i>Sản phẩm</a></li>
